@@ -18,6 +18,7 @@ PRIVATE
     avif.cpp
     heif.cpp
     jxl.cpp
+    microexif.cpp
     qoi.cpp
     scanlineconverter.cpp
 )
